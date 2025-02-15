@@ -46,4 +46,3 @@
 3. **Click the "Donate Now" button** to open the donation modal.
 4. **Click the "Contact Us" button** to open the Google Form in a new tab.
 
-### File Structure
